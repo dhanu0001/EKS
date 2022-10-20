@@ -1,0 +1,1 @@
+https://eslint.org/docs/user-guide/migrating-to-3.0.0
